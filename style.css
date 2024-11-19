@@ -3,7 +3,7 @@ body{
     color: white;
 }
 
-section {
+.chamada {
     background: rgb(82, 71, 94);
     padding-bottom: 80px;
             padding-top: 80px;
@@ -18,8 +18,14 @@ section {
     img{
         height: 200px;
     }
+
     .categoria-videos{
         display: flex;
         overflow-x: auto;
         gap: 10px;
     }
+    .chamada {
+
+    }
+ . { categoria
+}
